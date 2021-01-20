@@ -3,3 +3,4 @@ Curso de segurança em python Digital Innovation One
 
 Créditos ao Prof. Bruno de Campos da DIO
 Ping
+hash e password
